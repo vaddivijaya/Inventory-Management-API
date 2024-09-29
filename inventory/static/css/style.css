@@ -1,0 +1,52 @@
+body {
+    background-image: url("https://images.freecreatives.com/wp-content/uploads/2016/04/Abstract-Website-Background.jpg"); /* Path to your background image */
+    background-size:cover;
+
+    background-repeat: no-repeat;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  .ul-list{
+    list-style: none;
+   
+  }
+  .ul-list{
+    justify-content: end;
+  }
+  .list{
+    padding: 10px;
+    
+  }
+  .ul-list a{
+    text-decoration: none;
+    color: aliceblue;
+    
+  }
+  
+  header {
+    background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent background */
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 3em;
+    margin: 0;
+  }
+  
+  nav {
+    margin-top: 10px;
+  }
+  
+  nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+  }
+  
+  nav a:hover {
+    text-decoration: underline;
+  }
+  
